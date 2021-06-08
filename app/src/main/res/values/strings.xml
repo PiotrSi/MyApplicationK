@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApplicationK</string>
+    <string name="home_fragment">Home</string>
+    <string name="favorites_fragment">favorites</string>
+    <string name="search_fragment">search</string>
+</resources>
